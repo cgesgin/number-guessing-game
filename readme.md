@@ -30,7 +30,7 @@ This project is an easy to use and lightweight command line interface (CLI) appl
 
 - Navigate to the project directory:
 
-      cd expense-tracker
+      cd number-guessing-game
 
 - Build the project:
 
