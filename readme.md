@@ -20,8 +20,8 @@ This project is a simple command-line number guessing game. The computer randoml
 ## 🛠️ Technical Details: This project is built using:
 This project is an easy to use and lightweight command line interface (CLI) application.
 
-Java 19
-Maven for build management (version 3.9.9)
+- Java 19
+- Maven for build management (version 3.9.9)
 
 ## 🏃 How to Run: To get started with the project, follow these steps:
 - Clone the repository:
@@ -30,15 +30,15 @@ Maven for build management (version 3.9.9)
 
 - Navigate to the project directory:
 
-  cd expense-tracker
+      cd expense-tracker
 
 - Build the project:
 
-  mvn clean install
+      mvn clean install
 
 - Run the application:
 
-    mvn exec:java
+      mvn exec:java
 
 ## 📘 Usage Example:
-After the application runs, enter your choise
+After the application runs, enter your choise.
