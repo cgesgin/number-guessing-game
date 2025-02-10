@@ -26,7 +26,7 @@ This project is an easy to use and lightweight command line interface (CLI) appl
 ## 🏃 How to Run: To get started with the project, follow these steps:
 - Clone the repository:
 
-  git clone https://github.com/cgesgin/number-guessing-game.git
+      git clone https://github.com/cgesgin/number-guessing-game.git
 
 - Navigate to the project directory:
 
