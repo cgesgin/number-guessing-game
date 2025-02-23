@@ -1,7 +1,5 @@
 ## 🎯 Overview
-This project is a simple command-line number guessing game. The computer randomly selects a number, and the user has a limited number of chances to guess it. If the user guesses correctly, they win; otherwise, the game ends when chances run out.For more information and details on how to contribute, you can check this link:
-
-    https://roadmap.sh/projects/number-guessing-game
+Solution to the roadmap.sh project https://roadmap.sh/projects/number-guessing-game
 
 ## 🔍 Features
 - ✅ Add an expense with a description and amount
